@@ -26,3 +26,13 @@
 * Go through some lessons on Udemy to get a start on React.js and start learning some of the basic concepts.
 
 * Practice some white-boarding questions to get more comfortable handling the process and understand how to talk my way through a problem.
+
+### Technical Interview Questions
+
+1. What is a framework, and why use it?
+
+A framework is a collection of programs brought together to accomplish a task, make coding more efficient and generally make the lives of coders easier.
+
+2. Name every database association relationship.
+
+One-to-one, One-to-many, Many-to-many
