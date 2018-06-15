@@ -158,3 +158,13 @@ An array is an object in JavaScript that can contain other objects such as strin
 MVC stands for Model/View/Controller or Component depending on which language/framework you're dealing with. The Model defines what data the app should contain. The view defines how the apps data should be displayed to the user. The controller/component contains logic that updates the model and/or view in response to input from the user.
 
 * Describe Object Inheritance
+
+In object oriented programming, object inheritance refers to the ability of new objects to take on the properties of existing objects. You can inherit properties of a different object using the extends keyword.
+
+* What is floating in CSS?
+
+Float is a property in CSS which specifies that an element should be placed along the left or right side of its container, allowing text and inline elements to wrap around it. The element is removed from the flow of the webpage, though still remaining a part of the flow.
+
+* What are media queries and how do you use them?
+
+Media Queries are used to determine breakpoints in the browsers view based on screen size or some other feature. They are generally used in responsive design to make sure that all the content of a page is visible and easily readable to the user on any device. 
