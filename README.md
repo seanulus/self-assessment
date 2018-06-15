@@ -123,4 +123,38 @@ A foreign key is a column or group of columns in a relational database table tha
 
 * What is REST?
 
-REpresentational State Transfer is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant or RESTful systems are characterized by how they are stateless and separate the concerns of client and server. 
+REpresentational State Transfer is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant or RESTful systems are characterized by how they are stateless and separate the concerns of client and server.
+
+* What do you think the best practices are for branch management in a multi-developer project?
+
+The way I've experienced success is by splitting the workload into separate parts so there isn't much of a chance of anyone writing over another persons code and creating conflicts. It all comes down to good communication with your team and making sure everyone is on the same page.
+
+* How would you parse a JSON string?
+
+I would likely use the JSON.parse() method.
+
+* What is HTTP and why do we use it?
+
+HTTP is Hypertext Transfer Protocol. It is the foundation of data communication for the World Wide Web. We use it to transfer data between servers and clients(ie Web Browsers). This allows the client to get all the files necessary to load the page for any website.
+
+* What is the difference between a private and a public method?
+
+A private method is accessible only by the class that contains it. A public method can be accessed by any class.
+
+* How would you grab an element from the DOM using jQuery?
+
+Generally speaking, you grab elements from the DOM with jQuery by naming the class/id of whatever element you are trying to affect. The syntax usually looks like $('DOMelement').someMethod();
+
+* Describe a callback functionally
+
+A callback function (higher order function) is a function that is passed to another function as a parameter and executed inside that function.
+
+* What is an array?
+
+An array is an object in JavaScript that can contain other objects such as strings, numbers, boolean values, other arrays and objects.
+
+* Explain MVC
+
+MVC stands for Model/View/Controller or Component depending on which language/framework you're dealing with. The Model defines what data the app should contain. The view defines how the apps data should be displayed to the user. The controller/component contains logic that updates the model and/or view in response to input from the user.
+
+* Describe Object Inheritance
