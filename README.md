@@ -27,7 +27,9 @@
 
 * Practice some white-boarding questions to get more comfortable handling the process and understand how to talk my way through a problem.
 
-### Technical Interview Questions
+### Work
+
+#### Technical Interview Questions
 
 * What is a framework, and why use it?
 
@@ -187,4 +189,18 @@ So far, JavaScript has been my favorite language. As a language, it encompasses 
 
 * You've been working on a site for a couple months here at our company. You come in one day and the site is down. What do you do?
 
-First, I would communicate with the team to see if there had been any discoveries into what was happening. If there had been anything, I would want to make a plan of action to get the site up and running. If there had been no breakthroughs yet, I would suggest that we take time to figure out why the site crashed and take steps to uncover that information before moving ahead with any sort of fix.  
+First, I would communicate with the team to see if there had been any discoveries into what was happening. If there had been anything, I would want to make a plan of action to get the site up and running. If there had been no breakthroughs yet, I would suggest that we take time to figure out why the site crashed and take steps to uncover that information before moving ahead with any sort of fix.
+
+### Reflection & Next Steps  
+
+**Questions**
+
+  1. Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?
+
+  2. Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?
+
+**Answers**
+
+  1. I do feel like I made some improvement today. I mainly wanted to focus on things related to interview prep so I went through and found answers to questions I didn't know as well as writing out answers to the questions I did. I feel like I'll have a somewhat better understanding of what the interviewers are looking for in terms of technical questions in the interview.
+
+  2. Next steps will be working on white-boarding and getting live interview practice with some classmates if at all possible. In the future I would like to focus on getting better at algorithms as well and striving to be in a place where I feel like I can't be more prepared which may not happen. There is plenty to learn yet.
