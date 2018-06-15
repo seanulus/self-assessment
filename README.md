@@ -64,3 +64,9 @@ Git is a version control system that allows you to keep track of multiple versio
 * Which JavaScript frameworks do you have experience with? What are the strengths of those frameworks?
 
 I have experience with Angular and React. Angular is an object oriented framework as where React is a functionally based library. They are both great tools for programmers. Angular allows you to route and pass information through components very easily as well as offering service injection. These are all tools that save a massive amount of time for programmers. React is usable with other JavaScript frameworks and will easily adapt to those circumstances. It's also incredibly fast. The code is much more simple and has fewer bugs in general.
+
+* What happens when a user logs into a website?
+
+* What is a class?
+
+A class is an ES6 JavaScript object that contains a constructor and any methods attached to that class. It is used for creating objects.
