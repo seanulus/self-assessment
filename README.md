@@ -74,3 +74,11 @@ A class is an ES6 JavaScript object that contains a constructor and any methods 
 * What is an object?
 
 An object can be anything in and object-oriented language such as JavaScript. From strings, arrays, numbers and so on, everything in an object-oriented language is considered an object.
+
+* What is a module? How does it differ from a class?
+
+A module is essentially a library of methods. The difference between a module and a class is that a class can be instantiated and a module cannot. It will only ever be a library of methods. You can however attach these methods to a class.
+
+Why use a module?
+
+Modules are not always necessary applications, however when you have multiple components/controllers, they can come in handy when you have a few methods you'd like to attach to each of them without having to rewrite the methods every time.
