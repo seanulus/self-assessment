@@ -29,10 +29,38 @@
 
 ### Technical Interview Questions
 
-1. What is a framework, and why use it?
+* What is a framework, and why use it?
 
 A framework is a collection of programs brought together to accomplish a task, make coding more efficient and generally make the lives of coders easier.
 
-2. Name every database association relationship.
+* Name every database association relationship.
 
-One-to-one, One-to-many, Many-to-many
+One-to-one: Both tables can have only one record on either side of the relationship.
+
+One-to-many: The primary key table contains only one record that relates to none, one, or many records in the related table.
+
+Many-to-many: Each record in both tables can relate to any number of records (or no records) in the other table.
+
+* What is an ORM?
+
+ORM stands for Object-Relational Mapping. It is a technique that lets you query and manipulate data from a database using an object-oriented paradigm.
+
+* What is a migration?
+
+Migration is the process of moving from the use of one operating environment to another. This can involve upgrading to new hardware and/or software.
+
+* What is a route?
+
+A route is a "pathway" used to determine which "page" is being viewed by the user. While react doesn't use multiple pages, it gives the user the illusion by routing to different components/properties to display different information.
+
+* What is the difference between a POST and GET request?
+
+A GET request is generally used to retrieve information without changing it. A POST request is usually changing something about the requested information such as changing a password.
+
+* What is Git and why would you use it?
+
+Git is a version control system that allows you to keep track of multiple versions of your projects. This gives you a great advantage because it allows for you access to all previous versions of your code. If you happen to break something along the way, you can go back to a previous version instead of having to start all over from the beginning.
+
+* Which JavaScript frameworks do you have experience with? What are the strengths of those frameworks?
+
+I have experience with Angular and React. Angular is an object oriented framework as where React is a functionally based library. They are both great tools for programmers. Angular allows you to route and pass information through components very easily as well as offering service injection. These are all tools that save a massive amount of time for programmers. React is usable with other JavaScript frameworks and will easily adapt to those circumstances. It's also incredibly fast. The code is much more simple and has fewer bugs in general.
