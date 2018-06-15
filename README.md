@@ -167,4 +167,24 @@ Float is a property in CSS which specifies that an element should be placed alon
 
 * What are media queries and how do you use them?
 
-Media Queries are used to determine breakpoints in the browsers view based on screen size or some other feature. They are generally used in responsive design to make sure that all the content of a page is visible and easily readable to the user on any device. 
+Media Queries are used to determine breakpoints in the browsers view based on screen size or some other feature. They are generally used in responsive design to make sure that all the content of a page is visible and easily readable to the user on any device.
+
+* How do you make images usable for blind people who are using a screen reader?
+
+Inside the img tag, you write your definition of the image in the alt section for example <img src="img/dog.jpg" alt="a picture of a dog">
+
+* Whats the difference between =, ==, === in JavaScript?
+
+The = sign is used to assign a value to something, usually a variable. The == and === are commonly used to compare two objects and determine a boolean value of true or false depending on the outcome.
+
+* What's the difference between an undefined and undeclared variable in JavaScript?
+
+An undefined variable is a variable that has been declared bunt no value exists and is a type of itself 'undefined'. An undeclared variable is a variable that has been declared without a var, let, or const keyword.
+
+* What's your favorite language and why?
+
+So far, JavaScript has been my favorite language. As a language, it encompasses the vast majority of front end functionality and there are still so many advancements to be made to this ever expanding technology.
+
+* You've been working on a site for a couple months here at our company. You come in one day and the site is down. What do you do?
+
+First, I would communicate with the team to see if there had been any discoveries into what was happening. If there had been anything, I would want to make a plan of action to get the site up and running. If there had been no breakthroughs yet, I would suggest that we take time to figure out why the site crashed and take steps to uncover that information before moving ahead with any sort of fix.  
