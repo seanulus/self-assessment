@@ -70,3 +70,7 @@ I have experience with Angular and React. Angular is an object oriented framewor
 * What is a class?
 
 A class is an ES6 JavaScript object that contains a constructor and any methods attached to that class. It is used for creating objects.
+
+* What is an object?
+
+An object can be anything in and object-oriented language such as JavaScript. From strings, arrays, numbers and so on, everything in an object-oriented language is considered an object.
