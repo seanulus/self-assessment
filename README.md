@@ -19,7 +19,7 @@
 **My Plan Will Be As Follows**
 
 * Use some time today to finish cover letters and LinkedIn features I didn't finish yesterday.
-(finished LinkedIn)
+(finished LinkedIn)(cover letter finished)
 
 * Use time today to go through technical interview questions and come up with thorough and accurate answers to individual questions as a resource/study guide.
 
