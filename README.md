@@ -79,6 +79,44 @@ An object can be anything in and object-oriented language such as JavaScript. Fr
 
 A module is essentially a library of methods. The difference between a module and a class is that a class can be instantiated and a module cannot. It will only ever be a library of methods. You can however attach these methods to a class.
 
-Why use a module?
+* Why use a module?
 
 Modules are not always necessary applications, however when you have multiple components/controllers, they can come in handy when you have a few methods you'd like to attach to each of them without having to rewrite the methods every time.
+
+* Give an example of recursion
+
+A factorial problem is a good example of recursion. The function calls itself in order to go through each number leading to the base case. Recursion is sometimes a good practice but can lead to slow runtimes and infinite loops if you're not careful.
+
+* What is unit testing?
+
+It is a level of software testing where individual units/components of a software are tested. The purpose is to validate that each unit of the software performs as designed. It is the smallest testable part of any software.
+
+* What is integration testing?
+
+Integration Testing is a level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+
+* What happens when a user types in a URL?
+
+First, the browser checks the caches for the browser, operating system, router and finally the internet service provider. If the URL is not cached then the ISP's DNS server initiates a DNS query to find the IP address of the server that hosts the searched website.
+
+* What is string interpolation?
+
+String interpolation in ES6 is known as template literals. It allows you to use variable values in strings using the correct syntax. In JavaScript this is `String of words ${variable}`.
+
+* How do local and instance variables differ?
+
+Scope: Local variables are visible only in the method or block they are declared whereas instance variables can been seen by all methods in the class.
+
+Place where they are declared: Local variables are declared inside a method or a block whereas instance variables inside a class but outside a method.
+
+Existence time: Local variables are created when a method is called and destroyed when the method exits whereas instance variables are created using new and destroyed by the garbage collector when there are no reference to them.
+
+Access: You can't access local variables whereas instance variables can be accessed if they are declared as public.
+
+Where they are declared: Local variables are declared in a method or a block before they are called, whereas instance variables can be declared anywhere in the class level (even after their use).
+
+Instance variables always have a value even if they're not assigned one. Local variables without a value will give you an error.
+
+* What is a foreign key?
+
+A foreign key is a column or group of columns in a relational database table that provides a link between data in two tables. It acts as a cross-reference between tables because it references the primary key of another table, thereby establishing a link between them.
